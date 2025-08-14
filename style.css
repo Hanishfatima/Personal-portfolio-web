@@ -9,3 +9,22 @@
 .container-fluid-2 {
     background: #F5FCFF;
 }
+
+.card-section
+{
+    position: relative;
+    left: 130px;
+margin-top: 80px;
+    width: 200px;
+    margin-bottom: 40px;
+}
+
+.card-sec
+{
+    background: #F5FCFF;
+}
+
+.b-setup
+{
+    border: 2px blueviolet solid;
+}

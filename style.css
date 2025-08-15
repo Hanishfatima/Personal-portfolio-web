@@ -18,7 +18,7 @@ border:3px #6610f2 solid !important;
 
 }
 
-.container-fluid-1 :hover {
+.container-fluid-1:hover {
      border: 1px blue solid;
      border-style:dotted ;
 }
@@ -31,6 +31,10 @@ border:3px #6610f2 solid !important;
     background: #F5FCFF;
 }
 
+.container-fluid-2:hover{
+    border: 2px #6610f2 solid;
+   border-style:dotted ;
+}
 
 
 .card-section
@@ -50,4 +54,52 @@ margin-top: 80px;
 .b-setup
 {
     border: 2px blueviolet solid;
+}
+
+.card-sec3 :hover{
+       border: 2px #6610f2 solid;
+   border-style:dotted ;
+}
+
+.fa-solid {
+    color: #006B6A;
+}
+
+.iconS:hover{
+    border:1px #6610f2 solid;
+    border-style: dashed;
+    
+}
+
+.c-sec{
+    border:2px #006B6A solid;
+   
+    
+}
+
+.c-sec:hover{
+    border:3px solid #6610f2;
+}
+
+
+.head-sec:hover{
+    border:1px #6610f2 solid;
+    border-style: dashed;
+    
+}
+
+.b-prep{
+    border:1px solid #6610f2;
+}
+
+.choose{
+    margin-left: 340px;
+}
+
+.form{
+    margin-left: 340px;
+}
+
+.footer{
+    background-color: #F5FCFF;
 }

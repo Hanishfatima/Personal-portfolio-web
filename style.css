@@ -1,3 +1,6 @@
+.navbar:hover{
+border:3px #6610f2 solid !important;
+}
 .color{
     color: #6610f2;
 }
@@ -6,9 +9,29 @@
     background: #6610f2;
 }
 
+
+.container-fluid-1{
+ 
+    height: 45px;
+ width: 1250px;
+
+
+}
+
+.container-fluid-1 :hover {
+     border: 1px blue solid;
+     border-style:dotted ;
+}
+.btn{
+    height: 45px;
+}
+
+
 .container-fluid-2 {
     background: #F5FCFF;
 }
+
+
 
 .card-section
 {

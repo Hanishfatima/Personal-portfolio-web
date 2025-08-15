@@ -56,6 +56,9 @@ margin-top: 80px;
     border: 2px blueviolet solid;
 }
 
+.cardss{
+    background: #F5FCFF;
+}
 .card-sec3 :hover{
        border: 2px #6610f2 solid;
    border-style:dotted ;
